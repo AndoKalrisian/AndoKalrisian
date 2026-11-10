@@ -9,5 +9,6 @@ Because I've worked on both sides, I can move between the technical work and the
 I'm a lifelong learner, and I'd rather learn a new tool for the job than force the old one to fit. My background is a BA in Cognitive Science from Simon Fraser University, a Data Engineering Nanodegree from Udacity (2020) and an AI Essentials Data Fellowship at SFU (2021).
 
 If you have data that should be working harder for your team, I'd like to hear about it.
-I'm [Anders](https://www.linkedin.com/in/anders-bergman-39660211/), I'm a game programmer who loves solving technical problems and building systems that make games fun to play.
+
+For more about me and my work, look here: [https://andokalrisian.github.io/sse-consulting-website/](https://andokalrisian.github.io/sse-consulting-website/)
 
